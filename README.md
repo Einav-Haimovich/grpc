@@ -74,3 +74,9 @@ gRPC/
 ├── streaming/                   # Client: all four streaming patterns, hedging, interceptors
 └── client-integration/          # Client: gRPC client factory wired into a web application
 ```
+
+---
+
+Thanks to Irina Scurtu for the course — [From Zero to Hero: gRPC in .NET](https://dometrain.com/course/from-zero-to-hero-grpc-in-dotnet/).
+
+[Certificate of completion](<certificate/gRPC In Dotnet - Einav Haimovich.pdf>)

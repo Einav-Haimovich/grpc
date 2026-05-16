@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="gRPC-In-Dotnet/gRPC-In-Dotnet.csproj" />
-  <Project Path="GRPCClient/GRPCClient.csproj" Id="4e769a38-0512-4e29-95ac-f768741e3966" />
-  <Project Path="MVCGRPCClient/MVCGRPCClient.csproj" Id="7ca4c072-a50e-4ac4-a28f-d29d426c694c" />
-</Solution>

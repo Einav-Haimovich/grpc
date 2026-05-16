@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="server/Server.csproj" />
+  <Project Path="streaming/Streaming.csproj" Id="4e769a38-0512-4e29-95ac-f768741e3966" />
+  <Project Path="client-integration/ClientIntegration.csproj" Id="7ca4c072-a50e-4ac4-a28f-d29d426c694c" />
+</Solution>

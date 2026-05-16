@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Protobuf Include="..\gRPC-In-Dotnet\Protos\first.proto" GrpcServices="Client">
+    <Protobuf Include="..\server\Protos\first.proto" GrpcServices="Client">
       <Link>Protos\first.proto</Link>
     </Protobuf>
   </ItemGroup>
